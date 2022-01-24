@@ -1,0 +1,9 @@
+
+digraph initial {
+    layout=neato;
+    peripheries=0;
+    node [shape = record,height=.1];
+    node0[label = "head", pos = "0,0!"];
+    node1 [label = "NULL", pos = "1,0!"];
+    node0->node1[style=dashed];
+} 

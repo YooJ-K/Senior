@@ -1,0 +1,1142 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.11.17)  3 DEC 2021 17:16
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**GraphMining.tex
+(./GraphMining.tex
+LaTeX2e <2021-11-15>
+L3 programming layer <2021-11-12>
+(c:/texlive/texmf-dist/tex/latex/kotex-oblivoir/oblivoir.cls
+Document Class: oblivoir 2021/09/21 v3.0.2
+(c:/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+
+(c:/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(c:/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks16
+\XKV@tempa@toks=\toks17
+
+(c:/texlive/texmf-dist/tex/generic/xkeyval/keyval.tex))
+\XKV@depth=\count183
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(c:/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(c:/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2021-11-12 L3 programming layer (loader) 
+
+(c:/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count184
+\l__pdf_internal_box=\box50
+))
+Package: xparse 2021-11-12 L3 Experimental document command parser
+)
+(c:/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(c:/texlive/texmf-dist/tex/latex/kotex-oblivoir/oblivoir-utf.cls
+Document Class: oblivoir-utf 2020/02/10 v0.8.2 article-like class to typeset UT
+F-8 korean using memoir.
+\fa@setheight=\skip47
+\fa@setwidth=\skip48
+(c:/texlive/texmf-dist/tex/latex/memoir/memoir.cls
+Document Class: memoir 2021/06/16 v3.7p configurable book, report, article docu
+ment class
+\onelineskip=\skip49
+\lxvchars=\skip50
+\xlvchars=\skip51
+\@memcnta=\count185
+\c@@memmarkcntra=\count186
+\stockheight=\skip52
+\stockwidth=\skip53
+\trimtop=\skip54
+\trimedge=\skip55
+(c:/texlive/texmf-dist/tex/latex/memoir/mem10.clo
+File: mem10.clo 2008/01/30 v0.3 memoir class 10pt size option
+)
+\binding=\skip56
+\spinemargin=\skip57
+\foremargin=\skip58
+\uppermargin=\skip59
+\lowermargin=\skip60
+\headdrop=\skip61
+\normalrulethickness=\skip62
+\mem@maxheadheight=\skip63
+\mem@maxfootheight=\skip64
+\headwidth=\skip65
+\c@storedpagenumber=\count187
+\memPD=\dimen138
+\m@mabparskip=\skip66
+\thanksmarkwidth=\skip67
+\thanksmarksep=\skip68
+\droptitle=\skip69
+\c@book=\count188
+\c@part=\count189
+\c@chapter=\count190
+\c@section=\count191
+\c@subsection=\count192
+\c@subsubsection=\count193
+\c@paragraph=\count194
+\c@subparagraph=\count195
+\beforechapskip=\skip70
+\midchapskip=\skip71
+\afterchapskip=\skip72
+\chapindent=\skip73
+\bottomsectionskip=\skip74
+\secindent=\skip75
+\beforesecskip=\skip76
+\aftersecskip=\skip77
+\subsecindent=\skip78
+\beforesubsecskip=\skip79
+\aftersubsecskip=\skip80
+\subsubsecindent=\skip81
+\beforesubsubsecskip=\skip82
+\aftersubsubsecskip=\skip83
+\paraindent=\skip84
+\beforeparaskip=\skip85
+\afterparaskip=\skip86
+\subparaindent=\skip87
+\beforesubparaskip=\skip88
+\aftersubparaskip=\skip89
+\pfbreakskip=\skip90
+\c@@ppsavesec=\count196
+\c@@ppsaveapp=\count197
+\ragrparindent=\dimen139
+\everylistparindent=\dimen140
+\parsepi=\skip91
+\topsepi=\skip92
+\itemsepi=\skip93
+\parsepii=\skip94
+\topsepii=\skip95
+\topsepiii=\skip96
+\itemsepii=\skip97
+\itemsepiii=\skip98
+\partopsepii=\skip99
+\partopsepiii=\skip100
+\m@msavetopsep=\skip101
+\m@msavepartopsep=\skip102
+\@enLab=\toks18
+\abstitleskip=\skip103
+\absleftindent=\skip104
+\abs@leftindent=\dimen141
+\absrightindent=\skip105
+\absparindent=\skip106
+\absparsep=\skip107
+\c@vslineno=\count198
+\c@poemline=\count199
+\c@modulo@vs=\count266
+\c@memfvsline=\count267
+\vleftskip=\skip108
+\vrightskip=\skip109
+\stanzaskip=\skip110
+\versewidth=\skip111
+\vgap=\skip112
+\vindent=\skip113
+\vleftmargin=\dimen142
+\c@verse=\count268
+\c@chrsinstr=\count269
+\beforepoemtitleskip=\skip114
+\afterpoemtitleskip=\skip115
+\c@poem=\count270
+\beforePoemTitleskip=\skip116
+\midPoemTitleskip=\skip117
+\afterPoemTitleskip=\skip118
+
+(c:/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen143
+\ar@mcellbox=\box51
+\extrarowheight=\dimen144
+\NC@list=\toks19
+\extratabsurround=\skip119
+\backup@length=\skip120
+\ar@cellbox=\box52
+)
+(c:/texlive/texmf-dist/tex/latex/tools/dcolumn.sty
+Package: dcolumn 2014/10/28 v1.06 decimal alignment package (DPC)
+)
+(c:/texlive/texmf-dist/tex/latex/tools/delarray.sty
+Package: delarray 2014/10/28 v1.01 array delimiter package (DPC)
+)
+(c:/texlive/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen145
+\TX@old@table=\dimen146
+\TX@old@col=\dimen147
+\TX@target=\dimen148
+\TX@delta=\dimen149
+\TX@cols=\count271
+\TX@ftn=\toks20
+)
+\heavyrulewidth=\dimen150
+\lightrulewidth=\dimen151
+\cmidrulewidth=\dimen152
+\belowrulesep=\dimen153
+\belowbottomsep=\dimen154
+\aboverulesep=\dimen155
+\abovetopsep=\dimen156
+\cmidrulesep=\dimen157
+\cmidrulekern=\dimen158
+\defaultaddspace=\dimen159
+\@cmidla=\count272
+\@cmidlb=\count273
+\@aboverulesep=\dimen160
+\@belowrulesep=\dimen161
+\@thisruleclass=\count274
+\@lastruleclass=\count275
+\@thisrulewidth=\dimen162
+\ctableftskip=\skip121
+\ctabrightskip=\skip122
+\abovecolumnspenalty=\count276
+\@linestogo=\count277
+\@cellstogo=\count278
+\@cellsincolumn=\count279
+\crtok=\toks21
+\@mincolumnwidth=\dimen163
+\c@newflo@tctr=\count280
+\mem@margin@floatbox=\box53
+\@contcwidth=\skip123
+\@contindw=\skip124
+\abovecaptionskip=\skip125
+\belowcaptionskip=\skip126
+\subfloattopskip=\skip127
+\subfloatcapskip=\skip128
+\subfloatcaptopadj=\skip129
+\subfloatbottomskip=\skip130
+\subfloatlabelskip=\skip131
+\subfloatcapmargin=\dimen164
+\c@@contsubnum=\count281
+\m@mscap@capbox=\box54
+\m@mscap@fbox=\box55
+\sidecapsep=\dimen165
+\sidecapwidth=\dimen166
+\m@m@tempdima=\dimen167
+\m@mscapraise=\dimen168
+\sidecapraise=\dimen169
+\m@mscapmainwidth=\dimen170
+\m@mscaplkern=\dimen171
+\beforeepigraphskip=\skip132
+\afterepigraphskip=\skip133
+\epigraphwidth=\skip134
+\epigraphrule=\skip135
+LaTeX Info: Redefining \em on input line 7654.
+LaTeX Info: Redefining \emph on input line 7662.
+\tocentryskip=\skip136
+\tocbaseline=\skip137
+\cftparskip=\skip138
+\cftbeforebookskip=\skip139
+\cftbookindent=\dimen172
+\cftbooknumwidth=\dimen173
+\cftbeforepartskip=\skip140
+\cftpartindent=\skip141
+\cftpartnumwidth=\skip142
+\cftbeforechapterskip=\skip143
+\cftchapterindent=\skip144
+\cftchapternumwidth=\skip145
+\cftbeforesectionskip=\skip146
+\cftsectionindent=\skip147
+\cftsectionnumwidth=\skip148
+\cftbeforesubsectionskip=\skip149
+\cftsubsectionindent=\skip150
+\cftsubsectionnumwidth=\skip151
+\cftbeforesubsubsectionskip=\skip152
+\cftsubsubsectionindent=\skip153
+\cftsubsubsectionnumwidth=\skip154
+\cftbeforeparagraphskip=\skip155
+\cftparagraphindent=\skip156
+\cftparagraphnumwidth=\skip157
+\cftbeforesubparagraphskip=\skip158
+\cftsubparagraphindent=\skip159
+\cftsubparagraphnumwidth=\skip160
+\prechapterprecisshift=\dimen174
+\c@maxsecnumdepth=\count282
+\bibindent=\dimen175
+\bibitemsep=\skip161
+\indexcolsep=\skip162
+\indexrule=\skip163
+\indexmarkstyle=\toks22
+\@indexbox=\insert252
+\glossarycolsep=\dimen176
+\glossaryrule=\dimen177
+\sideparvshift=\skip164
+\sideins=\insert251
+\sidebartopsep=\skip165
+\sidebarhsep=\skip166
+\sidebarvsep=\skip167
+\sidebarwidth=\skip168
+\footmarkwidth=\skip169
+\footmarksep=\skip170
+\footparindent=\skip171
+\footinsdim=\skip172
+\footinsv@r=\insert250
+\@mpfootinsv@r=\insert249
+\m@m@k=\count283
+\m@m@h=\dimen178
+\m@mipn@skip=\skip173
+\sidefootins=\insert248
+\sidefootadjust=\skip174
+\sidefootheight=\skip175
+\sidefoothsep=\skip176
+\sidefootvsep=\skip177
+\sidefootwidth=\skip178
+\m@mdownsf=\skip179
+\c@sidefootnote=\count284
+\sidefootmarkwidth=\skip180
+\sidefootmarksep=\skip181
+\sidefootparindent=\skip182
+\c@pagenote=\count285
+\c@pagenoteshadow=\count286
+\mem@pn@lastkern=\skip183
+\every@verbatim=\toks23
+\afterevery@verbatim=\toks24
+\verbatim@line=\toks25
+\tab@position=\count287
+\verbatim@in@stream=\read2
+\verbatimindent=\skip184
+\verbatim@out=\write3
+\bvboxsep=\skip185
+\c@memfbvline=\count288
+\c@bvlinectr=\count289
+\bvnumlength=\skip186
+\fb@frw=\dimen179
+\fb@frh=\dimen180
+\FrameRule=\dimen181
+\FrameSep=\dimen182
+
+
+LaTeX hooks Warning: Generic hook 'package/before/framed' is deprecated.
+(hooks)              Use hook 'package/framed/before' instead.
+
+\c@cp@cntr=\count290
+\c@ism@mctr=\count291
+\c@xsm@mctr=\count292
+\c@csm@mctr=\count293
+\c@ksm@mctr=\count294
+\c@xksm@mctr=\count295
+\c@cksm@mctr=\count296
+\c@msm@mctr=\count297
+\c@xmsm@mctr=\count298
+\c@cmsm@mctr=\count299
+\c@bsm@mctr=\count300
+\c@workm@mctr=\count301
+\c@sheetsequence=\count302
+\c@lastsheet=\count303
+\c@lastpage=\count304
+(c:/texlive/texmf-dist/tex/latex/textcase/textcase.sty
+Package: textcase 2019/09/14 v1.00 Text only upper/lower case changing (DPC)
+)
+\c@figure=\count305
+\c@lofdepth=\count306
+\cftbeforefigureskip=\skip187
+\cftfigureindent=\skip188
+\cftfigurenumwidth=\skip189
+\c@table=\count307
+\c@lotdepth=\count308
+\cftbeforetableskip=\skip190
+\cfttableindent=\skip191
+\cfttablenumwidth=\skip192
+Package abstract [2008/07/23] emulated by memoir.
+Package appendix [2008/07/23] emulated by memoir.
+Package booktabs [2016/05/16] emulated by memoir.
+Package ccaption [2008/07/23] emulated by memoir.
+Package changepage [2008/07/23] emulated by memoir.
+Package chngcntr [2008/07/23] emulated by memoir.
+Package chngpage [2008/07/23] emulated by memoir.
+Package crop emulated by memoir.
+Package enumerate [2008/07/23] emulated by memoir.
+Package epigraph [2008/07/23] emulated by memoir.
+Package ifmtarg [2008/07/23] emulated by memoir.
+Package index [2008/07/23] emulated by memoir.
+Package makeidx [2008/07/23] emulated by memoir.
+Package moreverb [2008/07/23] emulated by memoir.
+Package needspace [2008/07/23] emulated by memoir.
+Package newfile [2008/07/23] emulated by memoir.
+Package nextpage [2008/07/23] emulated by memoir.
+Package pagenote [2008/07/23] emulated by memoir.
+Package parskip [2008/07/23] emulated by memoir.
+Package patchcmd [2008/07/23] emulated by memoir.
+Package setspace [2008/07/23] emulated by memoir.
+Package shortvrb [2008/07/23] emulated by memoir.
+Package showidx [2008/07/23] emulated by memoir.
+Package titleref [2008/07/23] emulated by memoir.
+Package titling [2008/07/23] emulated by memoir.
+Package tocbibind [2008/07/23] emulated by memoir.
+Package tocloft [2008/07/23] emulated by memoir.
+Package tocvsec2 [2008/07/23] emulated by memoir.
+Package verbatim [2008/07/23] emulated by memoir.
+Package verse [2008/07/23] emulated by memoir.
+
+
+LaTeX hooks Warning: Generic hook 'package/before/float' is deprecated.
+(hooks)              Use hook 'package/float/before' instead.
+
+)
+(c:/texlive/texmf-dist/tex/latex/kotex-oblivoir/memhangul-ucs/memhangul-ucs.sty
+Package: memhangul-ucs 2014/06/12UCS Hangul Package for memoir class
+memhangul-ucs v1.7.7 2014/06/12
+(c:/texlive/texmf-dist/tex/latex/kotex-utf/dhucs.sty
+Package: dhucs 2012/11/08 v5.3.2 typesetting UTF-8 Korean documents
+
+(c:/texlive/texmf-dist/tex/latex/kotex-utf/kotexutf.sty
+Package: kotexutf 2015/07/18 v2.1.1 typesetting UTF-8 Korean documents
+
+(c:/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks26
+\inpenc@posthook=\toks27
+)
+(c:/texlive/texmf-dist/tex/plain/kotex-plain/kotexutf-core.tex
+\unih@ngulpoint=\count309
+\dhucs@emph@raise=\dimen183
+)
+Now handling font encoding LUC ...
+... processing UTF-8 mapping file for font encoding LUC
+
+(c:/texlive/texmf-dist/tex/latex/kotex-utf/lucenc.dfu
+File: lucenc.dfu 2007/09/05 UTF-8 support for dhucs
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+3001 (decimal 12289)
+   defining Unicode char U+3002 (decimal 12290)
+   defining Unicode char U+3008 (decimal 12296)
+   defining Unicode char U+3009 (decimal 12297)
+   defining Unicode char U+300A (decimal 12298)
+   defining Unicode char U+300B (decimal 12299)
+   defining Unicode char U+300C (decimal 12300)
+   defining Unicode char U+300D (decimal 12301)
+   defining Unicode char U+300E (decimal 12302)
+   defining Unicode char U+300F (decimal 12303)
+   defining Unicode char U+3010 (decimal 12304)
+   defining Unicode char U+3011 (decimal 12305)
+   defining Unicode char U+3014 (decimal 12308)
+   defining Unicode char U+3015 (decimal 12309)
+   defining Unicode char U+3016 (decimal 12310)
+   defining Unicode char U+3017 (decimal 12311)
+   defining Unicode char U+3018 (decimal 12312)
+   defining Unicode char U+3019 (decimal 12313)
+   defining Unicode char U+301A (decimal 12314)
+   defining Unicode char U+301B (decimal 12315)
+   defining Unicode char U+FF01 (decimal 65281)
+   defining Unicode char U+FF08 (decimal 65288)
+   defining Unicode char U+FF09 (decimal 65289)
+   defining Unicode char U+FF0C (decimal 65292)
+   defining Unicode char U+FF0E (decimal 65294)
+   defining Unicode char U+FF1A (decimal 65306)
+   defining Unicode char U+FF1B (decimal 65307)
+   defining Unicode char U+FF1C (decimal 65308)
+   defining Unicode char U+FF1D (decimal 65309)
+   defining Unicode char U+FF1E (decimal 65310)
+   defining Unicode char U+FF1F (decimal 65311)
+   defining Unicode char U+FF3B (decimal 65339)
+   defining Unicode char U+FF3D (decimal 65341)
+   defining Unicode char U+FF5B (decimal 65371)
+   defining Unicode char U+FF5D (decimal 65373)
+   defining Unicode char U+FF61 (decimal 65377)
+   defining Unicode char U+FF62 (decimal 65378)
+   defining Unicode char U+FF63 (decimal 65379)
+   defining Unicode char U+FF64 (decimal 65380)
+   defining Unicode char U+FF65 (decimal 65381)
+)
+\@josa=\count310
+\josatoks=\toks28
+
+(c:/texlive/texmf-dist/tex/latex/cjk-ko/kolabels-utf.sty
+Package: kolabels-utf 2015/03/20 v1.5 UTF-8 Hangul item labels
+)))
+\memh@hu=\dimen184
+\t@nch@ars=\skip193
+\tmp@XXbox=\box56
+\tmp@XXdim=\dimen185
+
+(c:/texlive/texmf-dist/tex/latex/kotex-oblivoir/memhangul-common/memhangul-comm
+on.sty
+Package: memhangul-common 2021/03/03
+ (c:/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count311
+)
+\togetheightoffont=\box57
+\htoffnt=\skip194
+\divnoteskip=\skip195
+
+(c:/texlive/texmf-dist/tex/latex/kotex-oblivoir/memhangul-common/memhangul-patc
+h.sty) (c:/texlive/texmf-dist/tex/generic/hologo/hologo.sty
+Package: hologo 2019/12/05 v1.14 A logo collection with bookmark support (HO)
+
+(c:/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(c:/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(c:/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(c:/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(c:/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(c:/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+Package hologo Info: Using driver `pdftex'.
+)
+\pghgheadwidth=\dimen186
+\c@APPchapter=\count312
+\c@APPsection=\count313
+\c@APPsubsection=\count314
+\memucsadjustwidthtopsep=\dimen187
+)
+(c:/texlive/texmf-dist/tex/latex/kotex-oblivoir/memhangul-ucs/memucs-interword.
+sty
+Package: memucs-interword 2007/09/22
+\BASE@FONTsize=\dimen188
+\ORIG@spaceskip=\skip196
+)
+(c:/texlive/texmf-dist/tex/latex/kotex-oblivoir/memhangul-common/memucs-setspac
+e.sty
+Package: memucs-setspace 2021/03/03 6.7-mu9 Contributed and Supported LaTeX2e p
+ackage
+
+Package: `memucs-setspace', a modified version of `setspace', 6.7-mu9 <2021/03/
+03>
+)
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+02D0 (decimal 720)
+   defining Unicode char U+2025 (decimal 8229)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2015 (decimal 8213)
+   defining Unicode char U+2312 (decimal 8978)
+\raisedotdim=\dimen189
+\dhucs@emph@width=\dimen190
+\useremphraisedim=\dimen191
+\tmp_user_emph_dim=\dimen192
+)
+(c:/texlive/texmf-dist/tex/latex/kotex-oblivoir/memhangul-ucs/nanumfontsel.sty
+Package: nanumfontsel 
+) (c:/texlive/texmf-dist/tex/generic/pdftex/glyphtounicode.tex)
+(c:/texlive/texmf-dist/tex/latex/kotex-utf/contrib/dhucs-cmap.sty
+Package: dhucs-cmap 2007/06/16 searchable PDF for dhucs upon pdftex
+
+(c:/texlive/texmf-dist/tex/generic/iftex/ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+))
+\ob@hu=\dimen193
+
+(c:/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
+
+(c:/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(c:/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(c:/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(c:/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen194
+\Hy@linkcounter=\count315
+\Hy@pagecounter=\count316
+
+(c:/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(c:/texlive/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
+nguages
+)
+(c:/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(c:/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count317
+
+(c:/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `unicode' set `true' on input line 4073.
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count318
+
+(c:/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen195
+
+(c:/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(c:/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count319
+\Field@Width=\dimen196
+\Fld@charsize=\dimen197
+Package hyperref Info: Hyper figures OFF on input line 6076.
+Package hyperref Info: Link nesting OFF on input line 6081.
+Package hyperref Info: Hyper index ON on input line 6084.
+Package hyperref Info: backreferencing OFF on input line 6091.
+Package hyperref Info: Link coloring OFF on input line 6096.
+Package hyperref Info: Link coloring with OCG OFF on input line 6101.
+Package hyperref Info: PDF/A mode OFF on input line 6106.
+LaTeX Info: Redefining \ref on input line 6146.
+LaTeX Info: Redefining \pageref on input line 6150.
+
+(c:/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count320
+\c@Item=\count321
+\c@Hfootnote=\count322
+)
+(c:/texlive/texmf-dist/tex/latex/memoir/memhfixc.sty
+Package: memhfixc 2021/06/16 v1.19 nameref/hyperref package fixes for memoir cl
+ass
+
+
+LaTeX hooks Warning: Generic hook 'package/after/nameref' is deprecated.
+(hooks)              Use hook 'package/nameref/after' instead.
+
+\c@memhycontfloat=\count323
+\c@Hpagenote=\count324
+
+LaTeX hooks Warning: Generic hook 'package/after/hypcap' is deprecated.
+(hooks)              Use hook 'package/hypcap/after' instead.
+
+)
+Package hyperref Info: Driver: hpdftex.
+ (c:/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2021-06-07 v7.00m Hyperref driver for pdfTeX
+
+(c:/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count325
+\c@bookmark@seq@number=\count326
+
+(c:/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(c:/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip197
+)
+\@ensp=\skip198
+
+(c:/texlive/texmf-dist/tex/latex/kotex-oblivoir/memhangul-common/ob-toclof.sty)
+
+(c:/texlive/texmf-dist/tex/latex/kotex-oblivoir/memhangul-common/ob-koreanappen
+dix.sty))
+HANGUL DRIVER: kotex-utf
+) (c:/texlive/texmf-dist/tex/latex/cjk-ko/kotex.sty
+Package: kotex 2015/04/19 v1.6 Korean TeX (ko.TeX)
+
+(c:/texlive/texmf-dist/tex/latex/kotex-utf/kotex.cfg))
+(c:/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(c:/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(c:/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen198
+\Gin@req@width=\dimen199
+)
+(c:/texlive/texmf-dist/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(c:/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(c:/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen256
+\captionmargin@=\dimen257
+\captionwidth=\dimen258
+\caption@tempdima=\dimen259
+\caption@indent=\dimen260
+\caption@parindent=\dimen261
+\caption@hangindent=\dimen262
+Package caption Info: memoir document class detected.
+
+(c:/texlive/texmf-dist/tex/latex/caption/caption-memoir.sto
+File: caption-memoir.sto 2020/10/10 v2.1 Adaption of the caption package to the
+ memoir document class (AR)
+))
+\c@caption@flags=\count327
+\c@continuedfloat=\count328
+Package caption Info: changepage package is loaded.
+\caption@adjustwidth@hsize=\dimen263
+\caption@adjustwidth@linewidth=\dimen264
+Package caption Info: hyperref package is loaded.
+)
+\c@KVtest=\count329
+\sf@farskip=\skip199
+\sf@captopadj=\dimen265
+\sf@capskip=\skip256
+\sf@nearskip=\skip257
+\c@subfigure=\count330
+\c@subfigure@save=\count331
+\c@subtable=\count332
+\c@subtable@save=\count333
+\sf@top=\skip258
+\sf@bottom=\skip259
+)
+(c:/texlive/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(c:/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip260
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(c:/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks29
+\ex@=\dimen266
+))
+(c:/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen267
+)
+(c:/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count334
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count335
+\leftroot@=\count336
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count337
+\DOTSCASE@=\count338
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box58
+\strutbox@=\box59
+\big@size=\dimen268
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count339
+\c@MaxMatrixCols=\count340
+\dotsspace@=\muskip17
+\c@parentequation=\count341
+\dspbrk@lvl=\count342
+\tag@help=\toks30
+\row@=\count343
+\column@=\count344
+\maxfields@=\count345
+\andhelp@=\toks31
+\eqnshift@=\dimen269
+\alignsep@=\dimen270
+\tagshift@=\dimen271
+\tagwidth@=\dimen272
+\totwidth@=\dimen273
+\lineht@=\dimen274
+\@envbody=\toks32
+\multlinegap=\skip261
+\multlinetaggap=\skip262
+\mathdisplay@stack=\toks33
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+)
+(c:/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(c:/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count346
+\Gm@cntv=\count347
+\c@Gm@tempcnt=\count348
+\Gm@bindingoffset=\dimen275
+\Gm@wd@mp=\dimen276
+\Gm@odd@mp=\dimen277
+\Gm@even@mp=\dimen278
+\Gm@layoutwidth=\dimen279
+\Gm@layoutheight=\dimen280
+\Gm@layouthoffset=\dimen281
+\Gm@layoutvoffset=\dimen282
+\Gm@dimlist=\toks34
+) (./GraphMining.aux)
+\openout1 = `GraphMining.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for LUC/nanummj/m/n on input line 14.
+LaTeX Font Info:    Trying to load font information for LUC+nanummj on input li
+ne 14.
+
+(c:/texlive/texmf-dist/tex/latex/nanumtype1/lucnanummj.fd
+File: lucnanummj.fd 2013/02/12 v0.1 Nanum Myeongjo font definitions
+)
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+   defining Unicode char U+00B7 (decimal 183)
+
+(c:/texlive/texmf-dist/tex/latex/kotex-oblivoir/memhangul-ucs/memucs-gremph.sty
+Package: memucs-gremph 
+LaTeX Info: Redefining \itshape on input line 74.
+LaTeX Info: Redefining \slshape on input line 78.
+)
+Package hyperref Info: Link coloring OFF on input line 14.
+ (c:/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(c:/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(c:/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count349
+)
+Redoing nameref's sectioning
+Redoing nameref's label
+LaTeX Info: Redefining \nameref on input line 14.
+LaTeX Info: Redefining \ref on input line 14.
+LaTeX Info: Redefining \pageref on input line 14.
+LaTeX Info: Redefining \nameref on input line 14.
+(./GraphMining.out) (./GraphMining.out)
+\@outlinefile=\write4
+\openout4 = `GraphMining.out'.
+
+
+(c:/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count350
+\scratchdimen=\dimen283
+\scratchbox=\box60
+\nofMPsegments=\count351
+\nofMParguments=\count352
+\everyMPshowfont=\toks35
+\MPscratchCnt=\count353
+\MPscratchDim=\dimen284
+\MPnumerator=\count354
+\makeMPintoPDFobject=\count355
+\everyMPtoPDFconversion=\toks36
+) (c:/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(c:/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 426.79135pt, 85.35826pt)
+* v-part:(T,H,B)=(113.81102pt, 645.87756pt, 85.35826pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=426.79135pt
+* \textheight=645.87756pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=11.47354pt
+* \headheight=12.0pt
+* \headsep=18.06749pt
+* \topskip=10.0pt
+* \footskip=25.29494pt
+* \marginparwidth=71.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=15.60004pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<figure/aspirin.png, id=54, 511.9125pt x 372.39125pt>
+File: figure/aspirin.png Graphic file (type png)
+<use figure/aspirin.png>
+Package pdftex.def Info: figure/aspirin.png  used on input line 27.
+(pdftex.def)             Requested size: 170.71393pt x 124.18503pt.
+<figure/co-author.png, id=56, 545.03625pt x 411.03563pt>
+File: figure/co-author.png Graphic file (type png)
+<use figure/co-author.png>
+Package pdftex.def Info: figure/co-author.png  used on input line 32.
+(pdftex.def)             Requested size: 170.71393pt x 128.74309pt.
+[1
+
+{c:/texlive/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./figure/aspirin.png
+> <./figure/co-author.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
+
+ []
+
+<figure/apriori.png, id=112, 376.40625pt x 207.77625pt>
+File: figure/apriori.png Graphic file (type png)
+<use figure/apriori.png>
+Package pdftex.def Info: figure/apriori.png  used on input line 63.
+(pdftex.def)             Requested size: 170.71393pt x 94.23714pt.
+<figure/apriori.2.png, id=113, 269.005pt x 99.37125pt>
+File: figure/apriori.2.png Graphic file (type png)
+<use figure/apriori.2.png>
+Package pdftex.def Info: figure/apriori.2.png  used on input line 68.
+(pdftex.def)             Requested size: 128.0387pt x 47.29735pt.
+<figure/apriori.3.png, id=114, 376.40625pt x 135.50626pt>
+File: figure/apriori.3.png Graphic file (type png)
+<use figure/apriori.3.png>
+Package pdftex.def Info: figure/apriori.3.png  used on input line 73.
+(pdftex.def)             Requested size: 170.71393pt x 61.459pt.
+<figure/apriori.4.png, id=115, 380.42125pt x 99.37125pt>
+File: figure/apriori.4.png Graphic file (type png)
+<use figure/apriori.4.png>
+Package pdftex.def Info: figure/apriori.4.png  used on input line 78.
+(pdftex.def)             Requested size: 170.71393pt x 44.59383pt.
+[2 <./figure/apriori.png> <./figure/apriori.2.png> <./figure/apriori.3.png> <./
+figure/apriori.4.png>]
+<figure/apriori.5.png, id=144, 444.66125pt x 59.22125pt>
+File: figure/apriori.5.png Graphic file (type png)
+<use figure/apriori.5.png>
+Package pdftex.def Info: figure/apriori.5.png  used on input line 87.
+(pdftex.def)             Requested size: 298.75264pt x 39.78825pt.
+<figure/apriori.6.png, id=148, 118.4425pt x 134.5025pt>
+File: figure/apriori.6.png Graphic file (type png)
+<use figure/apriori.6.png>
+Package pdftex.def Info: figure/apriori.6.png  used on input line 99.
+(pdftex.def)             Requested size: 64.01608pt x 72.69798pt.
+<figure/apriori.7.png, id=149, 118.4425pt x 134.5025pt>
+File: figure/apriori.7.png Graphic file (type png)
+<use figure/apriori.7.png>
+Package pdftex.def Info: figure/apriori.7.png  used on input line 104.
+(pdftex.def)             Requested size: 64.01608pt x 72.69798pt.
+<figure/apriori.8.png, id=150, 118.4425pt x 134.5025pt>
+File: figure/apriori.8.png Graphic file (type png)
+<use figure/apriori.8.png>
+Package pdftex.def Info: figure/apriori.8.png  used on input line 109.
+(pdftex.def)             Requested size: 64.01608pt x 72.69798pt.
+<figure/apriori.9.png, id=151, 118.4425pt x 134.5025pt>
+File: figure/apriori.9.png Graphic file (type png)
+<use figure/apriori.9.png>
+Package pdftex.def Info: figure/apriori.9.png  used on input line 114.
+(pdftex.def)             Requested size: 64.01608pt x 72.69798pt.
+<figure/apriori.10.png, id=152, 118.4425pt x 134.5025pt>
+File: figure/apriori.10.png Graphic file (type png)
+<use figure/apriori.10.png>
+Package pdftex.def Info: figure/apriori.10.png  used on input line 119.
+(pdftex.def)             Requested size: 64.01608pt x 72.69798pt.
+<figure/G_example.png, id=155, 376.40625pt x 207.77625pt>
+File: figure/G_example.png Graphic file (type png)
+<use figure/G_example.png>
+Package pdftex.def Info: figure/G_example.png  used on input line 132.
+(pdftex.def)             Requested size: 170.71393pt x 94.23714pt.
+<figure/G_example.2.png, id=156, 269.005pt x 99.37125pt>
+File: figure/G_example.2.png Graphic file (type png)
+<use figure/G_example.2.png>
+Package pdftex.def Info: figure/G_example.2.png  used on input line 137.
+(pdftex.def)             Requested size: 128.0387pt x 47.29735pt.
+<figure/G_example.3.png, id=157, 376.40625pt x 135.50626pt>
+File: figure/G_example.3.png Graphic file (type png)
+<use figure/G_example.3.png>
+Package pdftex.def Info: figure/G_example.3.png  used on input line 142.
+(pdftex.def)             Requested size: 170.71393pt x 61.459pt.
+<figure/G_example.4.png, id=158, 380.42125pt x 99.37125pt>
+File: figure/G_example.4.png Graphic file (type png)
+<use figure/G_example.4.png>
+Package pdftex.def Info: figure/G_example.4.png  used on input line 147.
+(pdftex.def)             Requested size: 170.71393pt x 44.59383pt.
+ [3 <./figure/apriori.5.png> <./figure/apriori.6.png> <./figure/apriori.7.png> 
+<./figure/apriori.8.png> <./figure/apriori.9.png> <./figure/apriori.10.png> <./
+figure/G_example.png> <./figure/G_example.2.png> <./figure/G_example.3.png> <./
+figure/G_example.4.png>]
+<figure/ex.png, id=193, 376.40625pt x 207.77625pt>
+File: figure/ex.png Graphic file (type png)
+<use figure/ex.png>
+Package pdftex.def Info: figure/ex.png  used on input line 167.
+(pdftex.def)             Requested size: 170.71393pt x 94.23714pt.
+<figure/ex.2.png, id=194, 269.005pt x 99.37125pt>
+File: figure/ex.2.png Graphic file (type png)
+<use figure/ex.2.png>
+Package pdftex.def Info: figure/ex.2.png  used on input line 172.
+(pdftex.def)             Requested size: 128.0387pt x 47.29735pt.
+<figure/ex.3.png, id=195, 376.40625pt x 135.50626pt>
+File: figure/ex.3.png Graphic file (type png)
+<use figure/ex.3.png>
+Package pdftex.def Info: figure/ex.3.png  used on input line 177.
+(pdftex.def)             Requested size: 170.71393pt x 61.459pt.
+<figure/ex.4.png, id=196, 380.42125pt x 99.37125pt>
+File: figure/ex.4.png Graphic file (type png)
+<use figure/ex.4.png>
+Package pdftex.def Info: figure/ex.4.png  used on input line 182.
+(pdftex.def)             Requested size: 170.71393pt x 44.59383pt.
+<figure/apriori.11.png, id=201, 249.93375pt x 77.28876pt>
+File: figure/apriori.11.png Graphic file (type png)
+<use figure/apriori.11.png>
+Package pdftex.def Info: figure/apriori.11.png  used on input line 192.
+(pdftex.def)             Requested size: 128.0387pt x 39.596pt.
+<figure/vertex.png, id=202, 269.005pt x 199.74625pt>
+File: figure/vertex.png Graphic file (type png)
+<use figure/vertex.png>
+Package pdftex.def Info: figure/vertex.png  used on input line 210.
+(pdftex.def)             Requested size: 128.0387pt x 95.07246pt.
+<figure/vertex.2.png, id=203, 229.85875pt x 147.55125pt>
+File: figure/vertex.2.png Graphic file (type png)
+<use figure/vertex.2.png>
+Package pdftex.def Info: figure/vertex.2.png  used on input line 215.
+(pdftex.def)             Requested size: 128.0387pt x 82.19585pt.
+ [4 <./figure/ex.png> <./figure/ex.2.png> <./figure/ex.3.png> <./figure/ex.4.pn
+g> <./figure/apriori.11.png> <./figure/vertex.png> <./figure/vertex.2.png>]
+<figure/vertex.3.png, id=230, 308.15125pt x 231.86626pt>
+File: figure/vertex.3.png Graphic file (type png)
+<use figure/vertex.3.png>
+Package pdftex.def Info: figure/vertex.3.png  used on input line 226.
+(pdftex.def)             Requested size: 170.71393pt x 128.45378pt.
+ [5 <./figure/vertex.3.png>]
+<figure/edge.png, id=256, 269.005pt x 199.74625pt>
+File: figure/edge.png Graphic file (type png)
+<use figure/edge.png>
+Package pdftex.def Info: figure/edge.png  used on input line 275.
+(pdftex.def)             Requested size: 170.71393pt x 126.76126pt.
+<figure/edge.2.png, id=257, 157.58875pt x 225.84375pt>
+File: figure/edge.2.png Graphic file (type png)
+<use figure/edge.2.png>
+Package pdftex.def Info: figure/edge.2.png  used on input line 280.
+(pdftex.def)             Requested size: 85.35696pt x 122.32597pt.
+<figure/edge.3.png, id=260, 190.7125pt x 133.49875pt>
+File: figure/edge.3.png Graphic file (type png)
+<use figure/edge.3.png>
+Package pdftex.def Info: figure/edge.3.png  used on input line 289.
+(pdftex.def)             Requested size: 128.0387pt x 89.63109pt.
+ [6 <./figure/edge.png> <./figure/edge.2.png> <./figure/edge.3.png>] (./GraphMi
+ning.aux)
+Package rerunfilecheck Info: File `GraphMining.out' has not changed.
+(rerunfilecheck)             Checksum: C557A204B34C2A09B90FEC15F459CD62;730.
+ ) 
+Here is how much of TeX's memory you used:
+ 16927 strings out of 480331
+ 273281 string characters out of 5898558
+ 610326 words of memory out of 5000000
+ 34367 multiletter control sequences out of 15000+600000
+ 423615 words of font info for 97 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 105i,13n,133p,450b,590s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmmi10.pfb><c:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmmi7.pfb><c:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr8.pfb><c:/texlive/texmf-dist/fonts/type1/public/nanumtype1
+/nanummjbc2.pfb><c:/texlive/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc6
+.pfb><c:/texlive/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc7.pfb><c:/te
+xlive/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc8.pfb><c:/texlive/texmf
+-dist/fonts/type1/public/nanumtype1/nanummjmac.pfb><c:/texlive/texmf-dist/fonts
+/type1/public/nanumtype1/nanummjmad.pfb><c:/texlive/texmf-dist/fonts/type1/publ
+ic/nanumtype1/nanummjmae.pfb><c:/texlive/texmf-dist/fonts/type1/public/nanumtyp
+e1/nanummjmb0.pfb><c:/texlive/texmf-dist/fonts/type1/public/nanumtype1/nanummjm
+b1.pfb><c:/texlive/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb2.pfb><c:/
+texlive/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb3.pfb><c:/texlive/tex
+mf-dist/fonts/type1/public/nanumtype1/nanummjmb4.pfb><c:/texlive/texmf-dist/fon
+ts/type1/public/nanumtype1/nanummjmb5.pfb><c:/texlive/texmf-dist/fonts/type1/pu
+blic/nanumtype1/nanummjmb6.pfb><c:/texlive/texmf-dist/fonts/type1/public/nanumt
+ype1/nanummjmb7.pfb><c:/texlive/texmf-dist/fonts/type1/public/nanumtype1/nanumm
+jmb8.pfb><c:/texlive/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb9.pfb><c
+:/texlive/texmf-dist/fonts/type1/public/nanumtype1/nanummjmba.pfb><c:/texlive/t
+exmf-dist/fonts/type1/public/nanumtype1/nanummjmbb.pfb><c:/texlive/texmf-dist/f
+onts/type1/public/nanumtype1/nanummjmbc.pfb><c:/texlive/texmf-dist/fonts/type1/
+public/nanumtype1/nanummjmbd.pfb><c:/texlive/texmf-dist/fonts/type1/public/nanu
+mtype1/nanummjmc0.pfb><c:/texlive/texmf-dist/fonts/type1/public/nanumtype1/nanu
+mmjmc1.pfb><c:/texlive/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc2.pfb>
+<c:/texlive/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc5.pfb><c:/texlive
+/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc6.pfb><c:/texlive/texmf-dist
+/fonts/type1/public/nanumtype1/nanummjmc7.pfb><c:/texlive/texmf-dist/fonts/type
+1/public/nanumtype1/nanummjmc8.pfb><c:/texlive/texmf-dist/fonts/type1/public/na
+numtype1/nanummjmc9.pfb><c:/texlive/texmf-dist/fonts/type1/public/nanumtype1/na
+nummjmcc.pfb><c:/texlive/texmf-dist/fonts/type1/public/nanumtype1/nanummjmcd.pf
+b><c:/texlive/texmf-dist/fonts/type1/public/nanumtype1/nanummjmce.pfb><c:/texli
+ve/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd0.pfb><c:/texlive/texmf-di
+st/fonts/type1/public/nanumtype1/nanummjmd1.pfb><c:/texlive/texmf-dist/fonts/ty
+pe1/public/nanumtype1/nanummjmd3.pfb><c:/texlive/texmf-dist/fonts/type1/public/
+nanumtype1/nanummjmd4.pfb><c:/texlive/texmf-dist/fonts/type1/public/nanumtype1/
+nanummjmd5.pfb><c:/texlive/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd6.
+pfb><c:/texlive/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd7.pfb>
+Output written on GraphMining.pdf (6 pages, 4100705 bytes).
+PDF statistics:
+ 485 PDF objects out of 1000 (max. 8388607)
+ 288 compressed objects within 3 object streams
+ 60 named destinations out of 1000 (max. 500000)
+ 316 words of extra memory for PDF output out of 10000 (max. 10000000)
+

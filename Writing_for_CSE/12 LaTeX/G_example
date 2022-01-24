@@ -1,0 +1,50 @@
+
+digraph G1{
+    edge [arrowhead=none, arrowtail=none];
+    node [shape = circle];
+    rankdir="LR";
+    
+    a -> b[label="p", color="RED"];
+    a->e[label="q"];
+    b->e[label="r"];
+    b->c[label="r"];
+    b->d[label="r"];
+    c->d[label="p"];
+
+}
+
+digraph G2{
+    edge [arrowhead=none, arrowtail=none];
+    node [shape = circle];
+    rankdir="LR";
+    
+    a -> b[label="p", color="RED"];
+    a->d[label="q"];
+    b->d[label="r"];
+
+}
+
+digraph G3{
+    edge [arrowhead=none, arrowtail=none];
+    node [shape = circle];
+    rankdir="LR";
+    
+    a->b[label="r", color="RED"];
+    a->c[label="r"];
+    b->c[label="p"];
+    c->d[label="q"];
+    c->e[label="p"];
+
+}
+
+digraph G4{
+    edge [arrowhead=none, arrowtail=none];
+    node [shape = circle];
+    rankdir="LR";
+    
+    a->e[label="q"];
+    a->c[label="p"];
+    e->c[label="p"];
+    c->d[label="p"];
+
+}

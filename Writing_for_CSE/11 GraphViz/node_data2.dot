@@ -1,0 +1,5 @@
+
+digraph node_data2 {
+    node [shape = record,height=.1];
+    node0[label = "<f1> data2|<f2> next", color="RED"];
+} 

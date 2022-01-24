@@ -1,0 +1,168 @@
+% LaTeX Template: Curriculum Vitae, PDFLaTeX을 반드시 사용해야 함.
+% 사용한 Template : LaTeX Tech 400 - Resume 1(b)/7 styles/CV_01
+
+\documentclass[paper=a4,fontsize=11pt]{scrartcl} % KOMA-article class
+
+\usepackage[english]{babel}
+\usepackage[protrusion=true,expansion=true]{microtype}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}                    % Enable pdflatex
+\usepackage[svgnames]{xcolor}            % Colors by their 'svgnames'
+\usepackage{geometry}
+%\textheight=700px                    % Saving trees ;-)
+\usepackage{url}
+\usepackage{kotex}
+
+
+\frenchspacing              % Better looking spacings after periods
+\pagestyle{empty}           % No pagenumbers/headers/footers
+
+\definecolor{skyy}{RGB}{204, 229, 255}
+
+\usepackage{graphicx}
+
+%%% Custom sectioning (sectsty package)
+%%% ------------------------------------------------------------
+%\usepackage{sectsty}
+
+%\sectionfont{%                      % Change font of \section command
+%    \usefont{OT1}{phv}{b}{n}%       % bch-b-n: CharterBT-Bold font
+%    \sectionrule{0pt}{0pt}{-5pt}{3pt}}
+
+%%% Macros
+%%% ------------------------------------------------------------
+\newlength{\spacebox}
+\settowidth{\spacebox}{8888888888}          % Box to align text
+\newcommand{\sepspace}{\vspace*{1em}}       % Vertical space macro
+
+\newcommand{\MyName}[1]{ % Name
+        \Huge  \hfill #1 % \usefont{OT1}{phv}{b}{n}
+        \par \normalsize \normalfont}
+
+\newcommand{\MySlogan}[1]{ % Slogan (optional)
+        \large \hfill \textit{#1} % \usefont{OT1}{phv}{m}{n}
+        \par \normalsize \normalfont}
+
+\newcommand{\NewPart}[1]{\section*{\uppercase{#1}}}
+
+\newcommand{\PersonalEntry}[2]{
+        \noindent\hangindent=2em\hangafter=0 % Indentation
+        \parbox{\spacebox}{        % Box to align text
+        \textit{#1}}               % Entry name (birth, address, etc.)
+        \hspace{1.5em} #2 \par}    % Entry value
+
+\newcommand{\SkillsEntry}[2]{      % Same as \PersonalEntry
+        \noindent\hangindent=2em\hangafter=0 % Indentation
+        \parbox{10.5em}{        % Box to align text
+        \textit{#1}}               % Entry name (birth, address, etc.)
+        \hspace{1em} #2 \par}    % Entry value
+
+\newcommand{\EducationEntry}[4]{
+        \noindent \textbf{#1} \hfill      % Study
+        \colorbox{skyy}{%
+            \parbox{6em}{%
+            \hfill\color{Black}#2}}\\ \par   % Duration
+        \noindent \textit{#3} \par        % School
+        \noindent\hangindent=2em\hangafter=0 \small #4 % Description
+        \normalsize \par}
+  
+
+\newcommand{\WorkEntry}[4]{               % Same as \EducationEntry
+        \noindent \textbf{#1} \hfill      % Jobname
+        \colorbox{Black}{\color{White}#2} \par  % Duration
+        \noindent \textit{#3} \par              % Company
+        \noindent\hangindent=2em\hangafter=0 \small #4 % Description
+        \normalsize \par}
+
+%%% Begin Document
+%%% ------------------------------------------------------------
+\begin{document}
+% you can upload a photo and include it here...
+%\begin{wrapfigure}{l}{0.5\textwidth}
+%   \vspace*{-2em}
+%       \includegraphics[width=0.15\textwidth]{photo}
+%\end{wrapfigure}
+
+\MyName{ Chris Kim }
+\MySlogan{Curriculum Vitae}
+
+\sepspace
+
+%%% Personal details
+%%% ------------------------------------------------------------
+\NewPart{Personal details}{}
+
+\PersonalEntry{Birth}{July 8, 1999}
+\PersonalEntry{Address}{2, Busandaehak-ro 63beon-gil, Geumjeong-gu, Busan}
+\PersonalEntry{Phone}{+82 (010) 1234-5678}
+\PersonalEntry{Mail}{\url{chris3209@pusan.ac.kr}}
+\PersonalEntry{Github}{\url{https://github.com/}}
+
+%%% Education
+%%% ------------------------------------------------------------
+\NewPart{Education}{}
+
+\EducationEntry{Bachelor's degree}{2018-2022}{Pusan National University, Pusan, Korea}{\begin{itemize}
+		\item College of Engineering
+		\item Computer Science Engeneering
+		\item GPA 4.5/4.5
+		\item Relevant Course : AI Engeneering, Data Mining, Artificial Intelligence
+	\end{itemize}}
+
+%%% Work experience
+%%% ------------------------------------------------------------
+\NewPart{Work experience}{}
+
+\EducationEntry{Intern}{2021-2021}{KaKao Corp., Full-time, "Data Engineer"}{To sum up, I mainly collected, processed, and stored data. Design and build huge data pipelines to collect numerous data produced by numerous services. Processing is performed so that everyone can handle it easily and safely, and streaming or batch processing is performed according to the nature of the data. It was a very interesting time by dealing with Kakao's enormous scale of data.}
+
+
+%%% Skills
+%%% ------------------------------------------------------------
+\NewPart{Skills}{}
+
+\SkillsEntry{Languages}{Korean (mother tongue)}
+\SkillsEntry{}{English (fluent)}
+
+\SkillsEntry{Programming Languages}{Python (main), C++ (do well), Java (normal)}
+\SkillsEntry{}{Html (normal), JavaScript (normal), PHP (normal)}
+
+\SkillsEntry{Software}{\LaTeX, \textsc{VSCode}, \textsc{Anaconda}}
+
+%%% Project Experiences
+%%% ------------------------------------------------------------
+\NewPart{Projects}{}
+
+\begin{table}[!h]
+	\centering
+	\resizebox{12cm}{!}
+	{%
+
+	\begin{tabular}{|l|l|c|}
+		\hline
+		{Project Name}&{Topic}&{Grade}\\
+		\hline
+		\hline
+		
+		Arduino  	& about Mask mesurement         & A+\\
+		\hline
+		Logic circuit     & about Baseball Game & B+\\
+		\hline
+		Embedded System    & about nonogram & A+\\
+		\hline
+		Hackathon     & Educational Application & -\\ 
+		\hline
+	\end{tabular}
+	}
+
+\end{table}
+
+
+%%% References
+%%% ------------------------------------------------------------
+%\NewPart{References}{}
+%Available upon request
+
+
+\end{document}

@@ -1,0 +1,18 @@
+
+digraph add_node_5_2 {
+    layout=neato;
+    node [shape = record,height=.1];
+    node0[label = "...", pos = "0,0!", shape=plaintext];
+    node1[label = "data2|next", pos = "1.5,0!"];
+    node2[label = "data3|next", pos = "3.25,0!"];
+    node3[label = "...", pos = "4.75,0!", shape=plaintext];
+
+    node5[label = "data5|next", pos = "2.4, -0.5!"]
+
+    node0->node1;
+    node2->node3;
+
+    node1->node2[color="lightgrey", style="dashed"];
+
+    node1->node5->node2[color="RED"];
+} 

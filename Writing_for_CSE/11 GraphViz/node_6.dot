@@ -1,0 +1,14 @@
+
+digraph node_6 {
+    layout=neato;
+    node [shape = record,height=.1];
+    node0[label = "head", pos = "0,0!"];
+    node1[label = "data1|next", pos = "1.5,0!"];
+    node2[label = "data2|next", pos = "3.25,0!"];
+    node3[label = "data5|next", pos = "5,0!"];
+    node4[label = "data3|next", pos = "6.75,0!"];
+    node5[label = "data4|next", pos = "8.5,0!"];
+    node6[label = "NULL", pos = "10,0!"];
+
+    node0->node1->node2->node3->node4->node5->node6;
+} 

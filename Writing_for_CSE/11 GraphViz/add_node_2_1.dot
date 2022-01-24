@@ -1,0 +1,12 @@
+
+digraph add_node_2_1 {
+    layout=neato;
+    node [shape = record,height=.1];
+    node0[label = "head", pos = "0,0!"];
+    node1[label = "data1|next", pos = "1.5,0!", color = "RED"];
+    node2[label = "data2|next", pos = "2,-0.5!"];
+    node3[label = "NULL", pos = "3,0!"];
+
+    node0->node1->node3;
+    node2;
+} 

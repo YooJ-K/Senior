@@ -1,0 +1,118 @@
+
+digraph G1{
+    edge [arrowhead=none, arrowtail=none];
+    node [shape = circle];
+    rankdir="LR";
+    
+    a -> b[label="p"];
+    a->e[label="q"];
+    b->e[label="r"];
+    b->c[label="r"];
+    b->d[label="r"];
+    c->d[label="p"];
+
+}
+
+digraph G2{
+    edge [arrowhead=none, arrowtail=none];
+    node [shape = circle];
+    rankdir="LR";
+    
+    a -> b[label="p"];
+    a->d[label="q"];
+    b->d[label="r"];
+
+}
+
+digraph G3{
+    edge [arrowhead=none, arrowtail=none];
+    node [shape = circle];
+    rankdir="LR";
+    
+    a->b[label="r"];
+    a->c[label="r"];
+    b->c[label="p"];
+    c->d[label="q"];
+    c->e[label="p"];
+
+}
+
+digraph G4{
+    edge [arrowhead=none, arrowtail=none];
+    node [shape = circle];
+    rankdir="LR";
+    
+    a->e[label="q"];
+    a->c[label="p"];
+    e->c[label="p"];
+    c->d[label="p"];
+
+}
+
+digraph apriori_1{
+    layout=neato;
+    edge [arrowhead=none, arrowtail=none];
+    node [shape = circle];
+    
+    a[pos="0,0!"];
+    b[pos="1,0!"];
+    c[pos="2,0!"];
+    d[pos="3,0!"];
+    e[pos="4,0!"];
+    
+}
+
+digraph apriori_2_1{
+    edge [arrowhead=none, arrowtail=none];
+    node [shape = circle];
+    rankdir="LR";
+
+    a->b[label="p"];
+    
+}
+
+digraph apriori_2_2{
+    edge [arrowhead=none, arrowtail=none];
+    node [shape = circle];
+    rankdir="LR";
+
+    a->e[label="q"];
+    
+}
+
+digraph apriori_2_3{
+    edge [arrowhead=none, arrowtail=none];
+    node [shape = circle];
+    rankdir="LR";
+
+    b->d[label="r"];
+    
+}
+
+digraph apriori_2_4{
+    edge [arrowhead=none, arrowtail=none];
+    node [shape = circle];
+    rankdir="LR";
+
+    c->d[label="p"];
+    
+}
+
+digraph apriori_2_5{
+    edge [arrowhead=none, arrowtail=none];
+    node [shape = circle];
+    rankdir="LR";
+
+    c->e[label="p"];
+    
+}
+
+digraph apriori_3{
+    edge [arrowhead=none, arrowtail=none];
+    node [shape = circle];
+    rankdir="LR";
+
+    a->b[label="p"];
+    b->d[label="r"];
+    
+}

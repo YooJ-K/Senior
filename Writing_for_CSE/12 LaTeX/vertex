@@ -1,0 +1,51 @@
+
+
+digraph vertex_1{
+    edge [arrowhead=none, arrowtail=none];
+    node [shape = circle];
+    rankdir="LR";
+
+    a1 [label="a"];
+    a2 [label="a"];
+    a3 [label="a"];
+
+    a1 -> e [label="q"];
+    a1 -> a3 [label="p"];
+    a1 -> a2 [label="p"];
+    a2 -> a3 [label="r"];
+    
+}
+
+digraph vertex_2{
+    layout=neato;
+    node [shape = circle];
+    edge [arrowhead=none, arrowtail=none];
+
+    a1 [label="a"];
+    a2 [label="a"];
+    a3 [label="a"];
+    d [pos="1.5,0.5!"];
+
+    a3 -> d [label="r"];
+    a1 -> a3 [label="p"];
+    a1 -> a2 [label="p"];
+    a2 -> a3 [label="r"];
+}
+
+digraph vertex_join{
+    edge [arrowhead=none, arrowtail=none];
+    node [shape = circle];
+    rankdir="LR";
+
+    a1 [label="a"];
+    a2 [label="a"];
+    a3 [label="a"];
+
+    a1 -> e [label="q"];
+    a1 -> a3 [label="p"];
+    a1 -> a2 [label="p"];
+    a2 -> a3 [label="r"];
+    a3 -> d [label="r"];
+    
+}
+

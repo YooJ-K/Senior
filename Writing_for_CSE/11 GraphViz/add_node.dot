@@ -1,0 +1,11 @@
+
+digraph add_graph {
+    layout=neato;
+    node [shape = record,height=.1];
+    node0[label = "header", pos = "0,0!"];
+    node1[label = "data1|pointer", pos = "1.5,0!"];
+    node2[label = "data2|pointer", pos = "3.25,0!"];
+    node3[label = "NULL", pos = "5,0!"];
+
+    node0->node1->node2->node3;
+} 

@@ -1,0 +1,51 @@
+
+digraph edge_1{
+    edge [arrowhead=none, arrowtail=none];
+    node [shape = circle];
+    rankdir="LR";
+
+    a1 [label="a"];
+    a2 [label="a"];
+    a3 [label="a"];
+
+    a1 -> a3 [label="p"];
+    a1 -> a2 [label="p"];
+    a2 -> a3 [label="r"];
+    a1 -> f [label="q"];
+    
+}
+
+digraph edge_2{
+    layout=neato;
+    edge [arrowhead=none, arrowtail=none];
+    node [shape = circle];
+    rankdir="LR";
+
+    a1 [label="a"];
+    a2 [label="a"];
+    a3 [label="a"];
+    f[pos="0.5,-0.5!"];
+
+    a1 -> a3 [label="p"];
+    a1 -> a2 [label="p"];
+    a2 -> a3 [label="r"];
+    a3 -> f [label="r"];
+    
+}
+
+digraph edge_join{
+    edge [arrowhead=none, arrowtail=none];
+    node [shape = circle];
+    rankdir="LR";
+
+    a1 [label="a"];
+    a2 [label="a"];
+    a3 [label="a"];
+
+    a1 -> a3 [label="p"];
+    a1 -> a2 [label="p"];
+    a2 -> a3 [label="r"];
+    a1 -> f [label="q"];
+    a3 -> f [label="r"];
+    
+}
